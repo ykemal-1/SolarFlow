@@ -1,5 +1,5 @@
 const WEBHOOK_URL =
-    "https://solarflow2.app.n8n.cloud/webhook-test/4066943f-3fb7-406d-bd2f-808d9d3a03c6";
+    "https://solarflow2.app.n8n.cloud/webhook/4066943f-3fb7-406d-bd2f-808d9d3a03c6";
 
 const form = document.getElementById("offerteForm");
 const fileInput = document.getElementById("foto");
